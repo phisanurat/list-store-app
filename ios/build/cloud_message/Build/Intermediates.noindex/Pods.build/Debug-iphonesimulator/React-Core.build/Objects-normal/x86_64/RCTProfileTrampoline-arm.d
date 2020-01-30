@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/mac/cloud_message/node_modules/react-native/React/Profiler/RCTProfileTrampoline-arm.S \
+  /Users/mac/cloud_message/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/mac/cloud_message/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/mac/cloud_message/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/mac/cloud_message/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/mac/cloud_message/node_modules/react-native/React/Profiler/RCTMacros.h
